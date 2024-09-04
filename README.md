@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python) 
+
 # Diabetes Dataset Analysis
 This notebook contains the steps for analyzing a diabetes dataset. The process includes data preprocessing, data visualization, and other analyses to understand patterns within the data.
 
